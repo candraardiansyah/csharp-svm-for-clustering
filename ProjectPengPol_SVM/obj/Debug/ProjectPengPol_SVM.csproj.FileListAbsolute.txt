@@ -1,0 +1,10 @@
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\bin\Debug\ProjectPengPol_SVM.exe.config
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\bin\Debug\ProjectPengPol_SVM.exe
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\bin\Debug\ProjectPengPol_SVM.pdb
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\obj\Debug\ProjectPengPol_SVM.csprojAssemblyReference.cache
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\obj\Debug\ProjectPengPol_SVM.Form1.resources
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\obj\Debug\ProjectPengPol_SVM.Properties.Resources.resources
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\obj\Debug\ProjectPengPol_SVM.csproj.GenerateResource.cache
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\obj\Debug\ProjectPengPol_SVM.csproj.CoreCompileInputs.cache
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\obj\Debug\ProjectPengPol_SVM.exe
+C:\Users\dbss121\source\repos\ProjectPengPol_SVM\ProjectPengPol_SVM\obj\Debug\ProjectPengPol_SVM.pdb
